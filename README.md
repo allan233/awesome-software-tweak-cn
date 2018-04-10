@@ -18,6 +18,6 @@
 - [WeChatRedEnvelopesHelper](https://github.com/kevll/WeChatRedEnvelopesHelper) iOS版微信抢红包插件,支持后台抢红包
 - [DingTalkHelper](https://github.com/kevll/DingTalkHelper) 钉钉远程打卡插件 支持Wi-Fi和定位自定义设置
 - [AutoGetRedEnv](https://github.com/east520/AutoGetRedEnv) 微信自动抢红包动态库
-- [钉钉自动抢红包的实现](https://github.com/yohunl/DingTalkNoJailTweak) 钉钉自动抢红包的实现
+- [DingTalkNoJailTweak](https://github.com/yohunl/DingTalkNoJailTweak) 钉钉自动抢红包的实现
 -  [DingDingPod](https://github.com/WJustin/DingDingPod) 钉钉消息防撤回，自动抢红包功能
 
